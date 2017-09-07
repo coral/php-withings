@@ -24,3 +24,5 @@ I only own the Withings Body Scale, so I can't input any data for their other pr
 
 ### Credits
 [A big thanks to all the contributors](https://github.com/Zn4rK/php-withings/graphs/contributors)
+
+JEBAITED
